@@ -1,0 +1,9 @@
+product_name,category,origin_country,supplier,buy_price_gbp,units_per_shipment,freight_total_gbp,insurance_total_gbp,clearance_total_gbp,local_transport_total_gbp,duty_rate,vat_rate,surtax_rate,excise_rate,selling_price_etb,monthly_demand_units,shipping_months,clearance_months,selling_months,demand_confidence,risk_score,notes
+Motorcycle tyre 300-17,Tyres,India,Sample Supplier A,8.0,1800,3200,180,700,900,0.3,0.15,0.1,0.0,4300,650,3.0,0.5,3.0,5,35,High repeat demand but shipping cycle is slower.
+Motorcycle tube 300-17,Tyres,India,Sample Supplier B,1.25,10000,2100,120,500,600,0.25,0.15,0.1,0.0,850,4500,2.0,0.4,1.5,5,28,Lower unit margin but faster turnover and strong repeat demand.
+Piston kit 150cc,Spare parts,China,Sample Supplier C,6.0,2200,1800,100,520,500,0.15,0.15,0.1,0.0,2800,900,1.5,0.4,2.0,4,38,Attractive balance of margin and turnover.
+Garage hydraulic jack,Garage tools,China,Sample Supplier D,18.0,500,2400,130,550,600,0.2,0.15,0.1,0.0,9500,120,2.0,0.5,4.0,3,45,Good margin but demand is slower and product is heavier.
+Brake pad set,Spare parts,Turkey,Sample Supplier E,3.5,5000,1800,90,450,500,0.15,0.15,0.1,0.0,1650,2600,1.0,0.3,1.5,5,30,Fast-moving safety-related replacement part.
+LED work light,Tools,UAE,Sample Supplier F,4.2,3000,900,80,420,350,0.2,0.15,0.1,0.0,1600,1600,1.0,0.3,1.2,4,42,Good turnover but quality and competition should be checked.
+Air compressor small,Garage tools,China,Sample Supplier G,38.0,220,2600,140,520,700,0.2,0.15,0.1,0.0,19000,55,2.0,0.5,4.0,3,55,Higher ticket item with slower sale and quality risk.
+Phone charging cable bulk,Electronics accessories,China,Sample Supplier H,0.45,20000,800,70,450,300,0.25,0.15,0.1,0.0,260,7000,1.0,0.3,2.0,4,60,Very fast moving but high competition and quality risk.
